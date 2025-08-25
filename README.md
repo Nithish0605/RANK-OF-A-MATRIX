@@ -1,4 +1,4 @@
-# RANK-OF-A-MATRIX
+# RANK OF A MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -30,6 +30,7 @@ print(rank)
 ```
 ## Output:
 
+<img width="1262" height="757" alt="image" src="https://github.com/user-attachments/assets/4929f28a-1f40-476b-b930-c2d56b9a781a" />
 <img width="262" height="90" alt="image" src="https://github.com/user-attachments/assets/404123cb-7071-4c50-859f-6c208c5fe5e7" />
 
 ## Result:
